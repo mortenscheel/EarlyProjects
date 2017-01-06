@@ -1,4 +1,4 @@
-package alphabet_tree;
+package graphs.trees.alphabet_tree;
 
 import java.io.BufferedReader;
 import java.io.File;

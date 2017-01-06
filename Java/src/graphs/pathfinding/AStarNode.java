@@ -1,4 +1,4 @@
-package graph_models;
+package graphs.pathfinding;
 
 import java.awt.Point;
 

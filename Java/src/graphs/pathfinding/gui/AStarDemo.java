@@ -1,6 +1,6 @@
-package gui;
+package graphs.pathfinding.gui;
 
-import graph_models.AStarNode;
+import graphs.pathfinding.AStarNode;
 
 import java.awt.Point;
 import java.awt.event.ActionEvent;
@@ -12,9 +12,9 @@ import java.util.ArrayList;
 
 import javax.swing.Timer;
 
-import gui.components.AStarFrame;
-import gui.components.AStarPanel;
-import pathfinding_algorithms.AStar;
+import graphs.pathfinding.gui.components.AStarFrame;
+import graphs.pathfinding.gui.components.AStarPanel;
+import graphs.pathfinding.AStar;
 
 public class AStarDemo implements MouseListener, MouseMotionListener{
 	

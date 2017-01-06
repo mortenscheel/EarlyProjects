@@ -1,7 +1,7 @@
-package gui.components;
+package graphs.pathfinding.gui.components;
 
-import graph_models.AStarNode;
-import gui.AStarDemo;
+import graphs.pathfinding.AStarNode;
+import graphs.pathfinding.gui.AStarDemo;
 
 import java.awt.Color;
 import java.awt.Dimension;

@@ -1,4 +1,4 @@
-package graph_models;
+package graphs;
 
 import java.awt.Point;
 import java.io.Serializable;

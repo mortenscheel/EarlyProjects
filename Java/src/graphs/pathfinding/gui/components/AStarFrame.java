@@ -1,6 +1,6 @@
-package gui.components;
+package graphs.pathfinding.gui.components;
 
-import gui.AStarDemo;
+import graphs.pathfinding.gui.AStarDemo;
 
 import java.awt.BorderLayout;
 import java.awt.FlowLayout;

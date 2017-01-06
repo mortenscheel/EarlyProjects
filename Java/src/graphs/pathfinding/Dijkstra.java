@@ -1,8 +1,8 @@
-package pathfinding_algorithms;
+package graphs.pathfinding;
 
-import graph_models.Edge;
-import graph_models.Graph;
-import graph_models.Vertex;
+import graphs.Edge;
+import graphs.Graph;
+import graphs.Vertex;
 
 import java.util.ArrayList;
 

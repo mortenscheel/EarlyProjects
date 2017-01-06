@@ -1,9 +1,9 @@
-package gui.components;
+package graphs.pathfinding.gui.components;
 
 
-import graph_models.Edge;
-import graph_models.Vertex;
-import gui.DijkstraDemo;
+import graphs.Edge;
+import graphs.Vertex;
+import graphs.pathfinding.gui.DijkstraDemo;
 
 import java.awt.Color;
 import java.awt.Graphics;

@@ -1,16 +1,16 @@
-package gui;
+package graphs.pathfinding.gui;
 
 
-import graph_models.Edge;
-import graph_models.Graph;
-import graph_models.Vertex;
+import graphs.Edge;
+import graphs.Graph;
+import graphs.Vertex;
 
 import java.awt.Point;
 import java.util.ArrayList;
 
-import gui.components.DijkstraFrame;
-import gui.components.DijkstraPanel;
-import pathfinding_algorithms.Dijkstra;
+import graphs.pathfinding.gui.components.DijkstraFrame;
+import graphs.pathfinding.gui.components.DijkstraPanel;
+import graphs.pathfinding.Dijkstra;
 
 
 public class DijkstraDemo {

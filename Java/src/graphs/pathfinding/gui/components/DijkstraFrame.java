@@ -1,6 +1,6 @@
-package gui.components;
+package graphs.pathfinding.gui.components;
 
-import gui.DijkstraDemo;
+import graphs.pathfinding.gui.DijkstraDemo;
 
 import java.awt.BorderLayout;
 import java.awt.Color;

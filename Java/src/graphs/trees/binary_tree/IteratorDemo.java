@@ -1,6 +1,6 @@
-package binary_tree;
+package graphs.trees.binary_tree;
 
-import binary_tree.BinaryTreeSet.Sort;
+import graphs.trees.binary_tree.BinaryTreeSet.Sort;
 
 public class IteratorDemo {
 	public static void main(String[] args) {

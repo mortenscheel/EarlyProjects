@@ -1,4 +1,4 @@
-package binary_tree;
+package graphs.trees.binary_tree;
 
 public class Node<T extends Comparable<T>> {
 	public Node<T> parent;

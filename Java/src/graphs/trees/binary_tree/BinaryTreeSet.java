@@ -1,4 +1,4 @@
-package binary_tree;
+package graphs.trees.binary_tree;
 
 import java.util.ArrayList;
 import java.util.Collection;

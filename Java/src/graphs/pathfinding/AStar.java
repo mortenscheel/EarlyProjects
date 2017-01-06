@@ -1,6 +1,4 @@
-package pathfinding_algorithms;
-
-import graph_models.AStarNode;
+package graphs.pathfinding;
 
 import java.util.ArrayList;
 

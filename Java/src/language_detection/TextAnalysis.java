@@ -56,7 +56,7 @@ public class TextAnalysis {
 	private Font font;
 
 	public static void main(String[] args) {
-		new TextAnalysis("testdata/ordliste.txt");
+		new TextAnalysis("res/ordliste.txt");
 	}
 	
 	private void initialize(){

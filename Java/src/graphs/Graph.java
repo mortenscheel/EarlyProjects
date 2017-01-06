@@ -1,4 +1,4 @@
-package graph_models;
+package graphs;
 
 import java.io.Serializable;
 import java.util.ArrayList;
